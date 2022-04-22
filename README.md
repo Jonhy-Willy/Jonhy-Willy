@@ -1,13 +1,13 @@
 ### Olá! Eu sou o Jonhy Willy 👋
 
 - 🔭 Hoje trabalhando com front-end
-- 🌱 Estudando Javascript
+- 🌱 Estudando Javascript, HTML5 e CSS3
 - 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/Jonhy-Willy">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Jonhy-Willy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhy-Willy&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jonhy-Willy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonhy-Willy&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   <img align="right" width="120" height="120" src="https://64.media.tumblr.com/e7e63f8abb6304663a37e6d1cb8fe4b0/tumblr_mkqdlhV4Sf1r271uho1_500.gifv"
 </div>
 
