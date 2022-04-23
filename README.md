@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jonhy Willy 👋
 
 - 🔭 Hoje trabalhando com Front-end
-- 🌱 Estudando Javascript, HTML5 e CSS3
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: ele/dele
 
 <div align="center">
