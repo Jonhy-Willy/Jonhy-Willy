@@ -6,7 +6,7 @@
 
 -----
 
-- 🔭 Hoje trabalhando com Front-end
+- 🔭 Hoje trabalhando com Análise de Dados
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronomes: ele/dele
 
